@@ -99,3 +99,5 @@ libil2cpp.so*
 build_standalone/
 app/src/main/obj/
 crash_log.txt
+*.py
+__pycache__/
